@@ -1,5 +1,9 @@
 # Script e programmi Python
 
+## Programmi Python
+Sotto la directory **Notebooks** ci sono i programmi originali e quelli da me modificati per gestire alcune funzionalità del **JetBot**
+I particolari sono all'interno.
+
 ## Shell script
 Questi shell script sono comandi diretti per attiva/disattivare funzionalità
 
