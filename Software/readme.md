@@ -1,7 +1,7 @@
 # Script e programmi Python
 
 ## Programmi Python
-Sotto la directory **Notebooks** ci sono i programmi originali e quelli da me modificati per gestire alcune funzionalità del **JetBot**
+Sotto la directory [Notebooks](./Notebooks) ci sono i programmi originali e quelli da me modificati per gestire alcune funzionalità del **JetBot**
 I particolari sono all'interno.
 
 ## Shell script
