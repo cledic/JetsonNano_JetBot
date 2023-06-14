@@ -10,14 +10,19 @@ To disable GUI on boot, run: sudo systemctl set-default multi-user.target
 
 
 - Toglie il GUI: ATTENZIONE: il WiFi non voleva andare: perdeva l'IP dopo il boot.
+```
 sudo systemctl set-default multi-user.target
+```
 
 - Programma nuovamente il GUI
+```
 sudo systemctl set-default graphical.target
-
+```
 
 - Nella modalità senza GUI, per farlo connettere al WiFi, ho dovuto eseguire questi comandi:
+```
 sudo nmcli device wifi connect<SSID> password <password>
+```
 
 - Questi comandi li ho presi da questa pagina: https://jetbot.org/master/software_setup/sd_card.html
 e sono indicati per la nuova versione di JetBot che parte senza GUI.
