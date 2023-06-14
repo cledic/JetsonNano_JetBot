@@ -1,4 +1,4 @@
-# Configurare la Jetson Nano a 10W o 5W
+# Configurare la Jetson Nano per assorbire 10W o 5W
 
 https://forums.developer.nvidia.com/t/jetson-nano-shuts-down-during-the-inference-in-10w-mode/107347
 
