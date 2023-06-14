@@ -19,9 +19,9 @@ sudo systemctl set-default multi-user.target
 sudo systemctl set-default graphical.target
 ```
 
-- Nella modalità senza GUI, per farlo connettere al WiFi, ho dovuto eseguire questi comandi:
+- Nella modalità senza GUI, per farlo connettere al WiFi, ho dovuto eseguire questo comando:
 ```
-sudo nmcli device wifi connect<SSID> password <password>
+sudo nmcli device wifi connect <SSID> password <password>
 ```
 
 - Questi comandi li ho presi da questa pagina: https://jetbot.org/master/software_setup/sd_card.html
