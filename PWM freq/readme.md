@@ -8,7 +8,7 @@ L'unica soluzione che ho trovato è stata abbassare la freq. dei PWM utilizzando
 >call right after instantiating the robot object:
 >A PWM frequency of 100 Hz seems to stop the whining!
 
-Dalle prove che ho eseguito, il valore che ho trovato migliore è **50**
+Dalle prove che ho eseguito, il miglior valore che ho trovato è stato **50**
 
 ```
 robot = Robot()
